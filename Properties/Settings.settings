@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AsposeTeplateHandler.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TemplateBasePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\WorkHard\Downloads\ТЕСТОВОЕ ЗАДАНИЕ</Value>
+    </Setting>
+    <Setting Name="SaveDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\WorkHard\Desktop\SavedTemplates</Value>
+    </Setting>
+    <Setting Name="LocalDbConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Data\LocalDb.mdf;Integrated Security=True;Connect Timeout=30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
